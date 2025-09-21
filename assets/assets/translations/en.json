@@ -198,6 +198,8 @@
     "No Clients Found":"No Clients Found",
     "Choose a client to view documents":"Choose a client to view documents",
     "Failed to delete file from Storage":"Failed to delete file from Storage",
+    "choose_client":"Choose Client",
+    "choose_client_files":"Choose Client Files",
 
 
     "// Client Dashborad //": "Client Dashborad",

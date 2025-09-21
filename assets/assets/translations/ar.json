@@ -200,6 +200,8 @@
     "No Clients Found":"لم يتم العثور على عملاء",
     "Choose a client to view documents":"اختر عميلاً لعرض المستندات",
     "Failed to delete file from Storage":"فشل في حذف المستند من التخزين",
+    "choose_client":"اختر العميل",
+    "choose_client_files": "اختر عميل لعرض ملفاته",
 
 
   
