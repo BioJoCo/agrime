@@ -208,7 +208,9 @@
     "Welcome":"Welcome",
     "To agriME":"To agriME",
     "viewClientDocumentHeaderDescrption":"This page enables to view documents uploaded for you",
-    "Search by document name or date uploaded":"Search by document name or date uploaded"
+    "Search by document name or date uploaded":"Search by document name or date uploaded",
+  "file_already_exists": "File \"{file}\" already exists. Please upload a different file."
+
 
 
 }

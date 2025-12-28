@@ -211,6 +211,8 @@
     "Welcome":"أهلا",
     "To agriME":"في agriME",
     "viewClientDocumentHeaderDescrption":"تمكنك هذه الصفحة من عرض المستندات التي تم تحميلها لك",
-    "Search by document name or date uploaded":"البحث حسب اسم المستند أو تاريخ التحميل"
+    "Search by document name or date uploaded":"البحث حسب اسم المستند أو تاريخ التحميل",
+  "file_already_exists": "الملف \"{file}\" موجود مسبقًا، الرجاء رفع ملف آخر."
+
 
 }
